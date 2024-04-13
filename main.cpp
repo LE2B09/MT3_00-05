@@ -125,7 +125,7 @@ static void MatrixScreenPrint(int x, int y, Matrix4x4 matrix, const char* label)
 	Novice::ScreenPrintf(x, y, "%s", label);
 }
 
-const char kWindowTitle[] = "LC1C_11_キクチ_ケンタ_提出用課題";
+const char kWindowTitle[] = "LE2B_09_キクチ_ケンタ_提出用課題";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
